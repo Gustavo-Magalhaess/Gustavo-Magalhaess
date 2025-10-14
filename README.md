@@ -1,4 +1,4 @@
-<h2 align="left">Hello, my name is Gustavo!!</h2>
+<h2 align="left">Olá, meu nome é Gustavo!</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Main skills:</h3>
+<h3 align="left">Principais Habilidades:</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">Under Study:</h3>
+<h3 align="left">Em Desenvolvimento:</h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">Other Skills:</h3>
+<h3 align="left">Outras Habilidades:</h3>
 
 ###
 
